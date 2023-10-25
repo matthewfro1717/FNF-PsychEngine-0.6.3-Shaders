@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Novice",
+			"tristan",
+			[
+				253,
+				0,
+				0
+			]
+		],
+		[
+			"Plentiful",
+			"tristan",
+			[
+				253,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": true,
+	"weekBackground": "tristan",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Tristan's Spotlight",
+	"weekName": "TristanWeek",
+	"freeplayColor": [
+		253,
+		0,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "BambiWeek",
+	"startUnlocked": true
+}

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 26,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "shoot",
+			"fps": 10,
+			"name": "Shoot0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Hellius_Expungius",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "HelliusExpungius",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-100,
+		-150
+	],
+	"sing_duration": 6.6,
+	"scale": 2.3
+}

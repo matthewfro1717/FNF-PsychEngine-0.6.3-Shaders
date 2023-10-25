@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Backyard",
+			"dave",
+			[
+				0,
+				0,
+				253
+			]
+		],
+		[
+			"Frenzy",
+			"dave",
+			[
+				0,
+				0,
+				253
+			]
+		],
+		[
+			"Multidimensional",
+			"3dDave",
+			[
+				208,
+				91,
+				81
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": true,
+	"weekBackground": "dave",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Dave's Backyard Re-Run",
+	"weekName": "DaveWeek",
+	"freeplayColor": [
+		0,
+		0,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "RefresherWeek",
+	"startUnlocked": true
+}

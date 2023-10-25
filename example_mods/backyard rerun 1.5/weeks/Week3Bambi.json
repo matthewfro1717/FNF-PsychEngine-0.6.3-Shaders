@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Maize",
+			"bambi",
+			[
+				0,
+				250,
+				0
+			]
+		],
+		[
+			"Trespass",
+			"bambi",
+			[
+				0,
+				186,
+				0
+			]
+		],
+		[
+			"Virtuoso",
+			"bambiLosing",
+			[
+				0,
+				123,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": true,
+	"weekBackground": "bambi",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Bambi's Phone & Corn Rematch",
+	"weekName": "BambiWeek",
+	"freeplayColor": [
+		0,
+		253,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "DaveWeek",
+	"startUnlocked": true
+}

@@ -1,0 +1,25 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		2000,
+		2000
+	],
+	"no_antialiasing": true,
+	"scale": 6.90099999999998,
+	"animations": [
+		{
+			"loop_name": "Normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Normal0000",
+			"anim": "Normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "DialogueNarrator"
+}

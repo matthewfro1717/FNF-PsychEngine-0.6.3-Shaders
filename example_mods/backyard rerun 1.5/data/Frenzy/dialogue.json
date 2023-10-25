@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "That.."
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Was amazing."
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "You're better than ever!"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Beeeep"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "You two killed it. How about another?"
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Annoyed",
+			"text": "Sure, I don't see why not, what do you think boyfriend?"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "Ready",
+			"text": "Bah!"
+		}
+	]
+}

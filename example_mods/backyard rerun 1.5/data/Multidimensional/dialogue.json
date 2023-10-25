@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "ThirdDimentional",
+			"text": "T2ggZ29kLCBuby4u",
+			"boxState": "angry",
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave"
+		},
+		{
+			"expression": "ThirdDimentional",
+			"text": "SXQgaGFwcGVuZWQgYWdhaW4u",
+			"boxState": "angry",
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave"
+		},
+		{
+			"expression": "ThirdDimentional",
+			"text": "SSB0aG91Z2h0IEkgaGFkIHBlcmZlY3RlZCB0a GlzLg==",
+			"boxState": "angry",
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave"
+		},
+		{
+			"expression": "ThirdDimentional",
+			"text": "Tm90aGluZyBjb3VsZCd2ZSBnb25lIHdyb25 nLi4=",
+			"boxState": "angry",
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave"
+		},
+		{
+			"expression": "Confused",
+			"text": "Beeee?",
+			"boxState": "normal",
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf"
+		},
+		{
+			"expression": "ThirdDimentional",
+			"text": "Qm95ZnJpZW5kLCB3aGF0ZXZlciBkaWQgdGhp cyBpcyBvdXQgZm9yIG5vdCBvbmx5IG1lLCBi dXQgYWxzbyB5b3Uu",
+			"boxState": "angry",
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave"
+		},
+		{
+			"expression": "ThirdDimentional",
+			"text": "TWF5YmUgYSByYXAgYmF0dGxlIHdpbGwg aGVscCB1cyBnZXQgYmFjayB0byAyRC wgd2hlcmUgd2UncmUgc2FmZSwgcXVp Y2tseSE=",
+			"boxState": "angry",
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave"
+		}
+	]
+}

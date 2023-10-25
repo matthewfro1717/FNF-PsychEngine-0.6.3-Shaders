@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				257,
+				-365
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-148,
+				-543
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-204,
+				-119
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-187,
+				-380
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-244,
+				-380
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Roofs_guy",
+	"position": [
+		-150,
+		-240
+	],
+	"healthicon": "roofsguy",
+	"flip_x": false,
+	"healthbar_colors": [
+		68,
+		211,
+		81
+	],
+	"camera_position": [
+		-50,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 3
+}

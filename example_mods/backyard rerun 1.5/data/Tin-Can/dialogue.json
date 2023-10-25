@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "B-Beep?!"
+		},
+		{
+			"sound": "15ledialogue",
+			"speed": 0.07,
+			"portrait": "dialogue15le",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HEY! Who Are You! Watchu Doin Here?!"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "Bleep blap blonkerdoo"
+		},
+		{
+			"sound": "15ledialogue",
+			"speed": 0.07,
+			"portrait": "dialogue15le",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You not suppose to be here! Leave before we do something really bad!!"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "bru i aint even doing anything the fuck do you mean"
+		},
+		{
+			"sound": "HEdialogue",
+			"speed": 0.06,
+			"portrait": "dialogueHE",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If you dont leave within the next 1 minute, 37 seconds, and 18 milliseconds, we will kill you!!"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "Upset",
+			"text": "Oh, no! Shiver me timbers!"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "Hell Expunged's Distraction",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP",
+	"weekBefore": "ExpungedWeek",
+	"freeplayColor": [
+		185,
+		185,
+		185
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Unbound",
+			"HellExpunged",
+			[
+				215,
+				215,
+				215
+			]
+		],
+		[
+			"Dissimulation",
+			"HellExpungedPhase2",
+			[
+				155,
+				155,
+				155
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "HellExpungedWeek"
+}

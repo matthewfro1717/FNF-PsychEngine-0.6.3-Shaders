@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Splitathon",
+			"text": "Ah, so you two did make it!"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bee!"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, it's pretty late though, isn't it?"
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Splitathon",
+			"text": "Yeah, but nothing hurts a final show down, right?"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Not at all/."
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguetristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mr. Bambi, can i play on your phone?"
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Splitathon",
+			"text": "Sur-"
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "PostMaze",
+			"text": "No, you cannot."
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "PostMaze",
+			"text": "You're grounded, remember?"
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguetristan",
+			"boxState": "normal",
+			"expression": "Sad",
+			"text": "Wahhhh"
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "Dialoguedave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So, the plan is. I got first, then Tristan, then Bambi."
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then, We'll  just alternate whenever we feel like it."
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Sound good?"
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Splitathon",
+			"text": "Yeah."
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguetristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah!"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "Ready",
+			"text": "Ba!"
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "DialogueDave",
+			"boxState": "normal",
+			"expression": "Splitathon",
+			"text": "Great, Let's Start"
+		}
+	]
+}

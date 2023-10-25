@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				38,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				34,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down0"
+		},
+		{
+			"offsets": [
+				47,
+				82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up0"
+		},
+		{
+			"offsets": [
+				-36,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				53,
+				72
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "cry",
+			"indices": [],
+			"name": "cry"
+		},
+		{
+			"offsets": [
+				53,
+				72
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "fornia",
+			"indices": [],
+			"name": "stuck in fornia"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MoldyGH",
+	"position": [
+		-50,
+		120
+	],
+	"healthicon": "Moldy",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		100
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

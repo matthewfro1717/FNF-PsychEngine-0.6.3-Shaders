@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Hellius Expungius.png">
+<SubTexture name="Idle0000" x="0" y="0" width="284" height="332" frameX="0" frameY="0" frameWidth="244" frameHeight="292" />
+<SubTexture name="Shoot0000" x="284" y="0" width="284" height="332" frameX="0" frameY="0" frameWidth="278" frameHeight="292" />
+<SubTexture name="Shoot0001" x="0" y="332" width="284" height="332" frameX="0" frameY="0" frameWidth="278" frameHeight="292" />
+<SubTexture name="Shoot0002" x="284" y="332" width="284" height="332" frameX="0" frameY="0" frameWidth="278" frameHeight="292" />
+<SubTexture name="Shoot0003" x="0" y="664" width="284" height="332" frameX="0" frameY="0" frameWidth="278" frameHeight="292" />
+<SubTexture name="Shoot0004" x="284" y="664" width="284" height="332" frameX="0" frameY="0" frameWidth="278" frameHeight="292" />
+<SubTexture name="Shoot0005" x="0" y="996" width="284" height="332" frameX="0" frameY="0" frameWidth="278" frameHeight="292" />
+<SubTexture name="Shoot0006" x="0" y="664" width="284" height="332" frameX="0" frameY="0" frameWidth="278" frameHeight="292" />
+<SubTexture name="Shoot0007" x="0" y="664" width="284" height="332" frameX="0" frameY="0" frameWidth="278" frameHeight="292" />
+<SubTexture name="Shoot0008" x="0" y="664" width="284" height="332" frameX="0" frameY="0" frameWidth="278" frameHeight="292" />
+<SubTexture name="Shoot0009" x="0" y="664" width="284" height="332" frameX="0" frameY="0" frameWidth="278" frameHeight="292" />
+<SubTexture name="Shoot0010" x="0" y="664" width="284" height="332" frameX="0" frameY="0" frameWidth="278" frameHeight="292" />
+<SubTexture name="Shoot0011" x="284" y="332" width="284" height="332" frameX="0" frameY="0" frameWidth="278" frameHeight="292" />
+<SubTexture name="Shoot0012" x="0" y="332" width="284" height="332" frameX="0" frameY="0" frameWidth="278" frameHeight="292" />
+<SubTexture name="Shoot0013" x="284" y="0" width="284" height="332" frameX="0" frameY="0" frameWidth="278" frameHeight="292" />
+</TextureAtlas>

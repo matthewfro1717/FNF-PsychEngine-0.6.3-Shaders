@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "shredder idle"
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "shredder left"
+		},
+		{
+			"offsets": [
+				24,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "shredder down"
+		},
+		{
+			"offsets": [
+				-12,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "shredder up"
+		},
+		{
+			"offsets": [
+				-70,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "shredder right"
+		},
+		{
+			"offsets": [
+				38,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singFORWARD",
+			"indices": [],
+			"name": "shredder forward"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				18
+			],
+			"anim": "TakeOut",
+			"fps": 24,
+			"name": "shredder take out",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				18
+			],
+			"anim": "PutAway",
+			"fps": 30,
+			"name": "shredder take out",
+			"indices": [
+				29,
+				28,
+				27,
+				26,
+				25,
+				24,
+				23,
+				22,
+				21,
+				20,
+				19,
+				18,
+				17,
+				16,
+				15,
+				14,
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bambi_Shredder",
+	"position": [
+		-1,
+		352
+	],
+	"healthicon": "bambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		176,
+		0
+	],
+	"camera_position": [
+		-33,
+		27
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

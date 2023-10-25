@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 99,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				230,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left0"
+		},
+		{
+			"offsets": [
+				-30,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up0"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right0"
+		},
+		{
+			"offsets": [
+				80,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down0"
+		},
+		{
+			"offsets": [
+				320,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "LeftMiss0"
+		},
+		{
+			"offsets": [
+				45,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "UpMiss0"
+		},
+		{
+			"offsets": [
+				30,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "RightMiss0"
+		},
+		{
+			"offsets": [
+				60,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "DownMiss0"
+		},
+		{
+			"offsets": [
+				350,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [
+				1,
+				1,
+				1,
+				2,
+				2,
+				2,
+				3,
+				3,
+				3,
+				4,
+				4,
+				4,
+				5,
+				5,
+				5
+			],
+			"name": "DaevFookinDies0"
+		},
+		{
+			"offsets": [
+				350,
+				150
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "TheFogIsComing0"
+		},
+		{
+			"offsets": [
+				350,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "TheFogIsComing0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Frontyard_Pre-Walk_Dave",
+	"position": [
+		80,
+		320
+	],
+	"healthicon": "FrontyardDave",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		95,
+		255
+	],
+	"camera_position": [
+		100,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

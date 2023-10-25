@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "splitathon idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "splitathon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "splitathon right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "splitathon left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-24
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "splitathon down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				1
+			],
+			"anim": "corn",
+			"fps": 24,
+			"name": "splitathon corn",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				0
+			],
+			"anim": "idle2",
+			"fps": 24,
+			"name": "splitathon idle 200",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-91,
+				-11
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "splitathon right alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				-9
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "splitathon left alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				20
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "splitathon alt up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-24
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "splitathon down alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				75
+			],
+			"anim": "PhoneSmash",
+			"fps": 24,
+			"name": "splitathon phone0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				18
+			],
+			"anim": "PhoneThrow",
+			"fps": 24,
+			"name": "splitathon throw0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-34,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Slander",
+			"indices": [],
+			"name": "splitathon fucken idiot0"
+		},
+		{
+			"offsets": [
+				-22,
+				-23
+			],
+			"loop": false,
+			"fps": 34,
+			"anim": "HolyShit",
+			"indices": [],
+			"name": "splitathon holy shit0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Splitathon_Bambi",
+	"position": [
+		-30,
+		346
+	],
+	"healthicon": "bambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		176,
+		0
+	],
+	"camera_position": [
+		14,
+		4
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

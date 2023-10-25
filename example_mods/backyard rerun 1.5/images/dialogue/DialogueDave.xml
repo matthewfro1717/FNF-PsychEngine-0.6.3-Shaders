@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DialogueDave.png">
+<SubTexture name="Insanity0000" x="0" y="0" width="255" height="383" frameX="-1" frameY="-1" frameWidth="236" frameHeight="364" />
+<SubTexture name="Insanity0001" x="255" y="0" width="256" height="384" frameX="0" frameY="0" frameWidth="236" frameHeight="364" />
+<SubTexture name="Insanity0002" x="511" y="0" width="256" height="383" frameX="0" frameY="-1" frameWidth="236" frameHeight="364" />
+<SubTexture name="Insanity0003" x="767" y="0" width="254" height="383" frameX="0" frameY="-1" frameWidth="236" frameHeight="364" />
+<SubTexture name="ThirdDimentional0000" x="0" y="384" width="326" height="362" frameX="0" frameY="0" frameWidth="306" frameHeight="342" />
+<SubTexture name="Annoyed0000" x="326" y="384" width="208" height="310" frameX="0" frameY="0" frameWidth="188" frameHeight="290" />
+<SubTexture name="Erm0000" x="534" y="384" width="207" height="310" frameX="0" frameY="0" frameWidth="187" frameHeight="290" />
+<SubTexture name="Furios0000" x="741" y="384" width="267" height="310" frameX="0" frameY="0" frameWidth="247" frameHeight="290" />
+<SubTexture name="Happy0000" x="0" y="746" width="208" height="310" frameX="0" frameY="0" frameWidth="188" frameHeight="290" />
+<SubTexture name="Phone0000" x="208" y="746" width="397" height="284" frameX="-37" frameY="-86" frameWidth="414" frameHeight="350" />
+<SubTexture name="PostMaze0000" x="605" y="746" width="216" height="310" frameX="0" frameY="0" frameWidth="196" frameHeight="290" />
+<SubTexture name="Shocked0000" x="821" y="746" width="267" height="310" frameX="0" frameY="0" frameWidth="247" frameHeight="290" />
+<SubTexture name="Splitathon0000" x="0" y="1056" width="208" height="310" frameX="0" frameY="0" frameWidth="188" frameHeight="290" />
+</TextureAtlas>

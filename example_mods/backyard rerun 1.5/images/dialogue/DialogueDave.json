@@ -1,0 +1,142 @@
+{
+	"position": [
+		220,
+		110
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 1.5,
+	"image": "DialogueDave",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Happy",
+			"idle_name": "Happy0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Annoyed",
+			"idle_name": "Annoyed0000"
+		},
+		{
+			"loop_offsets": [
+				-1,
+				0
+			],
+			"anim": "Erm",
+			"idle_offsets": [
+				-1,
+				0
+			],
+			"loop_name": "Erm",
+			"idle_name": "Erm0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "PostMaze",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "PostMaze",
+			"idle_name": "PostMaze0000"
+		},
+		{
+			"loop_offsets": [
+				25,
+				-25
+			],
+			"anim": "Furios",
+			"idle_offsets": [
+				25,
+				-25
+			],
+			"loop_name": "Furios",
+			"idle_name": "Furios0000"
+		},
+		{
+			"loop_offsets": [
+				25,
+				-25
+			],
+			"anim": "Shocked",
+			"idle_offsets": [
+				25,
+				-25
+			],
+			"loop_name": "Shocked",
+			"idle_name": "Shocked0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Splitathon",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Splitathon",
+			"idle_name": "Splitathon0000"
+		},
+		{
+			"loop_offsets": [
+				105,
+				72
+			],
+			"anim": "Phone",
+			"idle_offsets": [
+				105,
+				72
+			],
+			"loop_name": "Phone",
+			"idle_name": "Phone0000"
+		},
+		{
+			"loop_offsets": [
+				80,
+				50
+			],
+			"anim": "ThirdDimentional",
+			"idle_offsets": [
+				80,
+				50
+			],
+			"loop_name": "ThirdDimentional",
+			"idle_name": "ThirdDimentional0000"
+		},
+		{
+			"loop_offsets": [
+				30,
+				40
+			],
+			"anim": "Insanity",
+			"idle_offsets": [
+				30,
+				40
+			],
+			"loop_name": "Insanity",
+			"idle_name": "Insanity0003"
+		}
+	]
+}

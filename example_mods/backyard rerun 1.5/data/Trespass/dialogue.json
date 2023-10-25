@@ -1,0 +1,132 @@
+{
+	"dialogue": [
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Annoyed",
+			"text": "Oh my fucking god."
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.025,
+			"portrait": "dialoguegf",
+			"boxState": "angry",
+			"expression": "Cheer",
+			"text": "BOOM! IN YOUR FACE"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "Ready",
+			"text": "Skibop ba beep!"
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Annoyed",
+			"text": "Why are more people coming here?!"
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Furios",
+			"text": "Bambi, Did you see anything happen?"
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Furios",
+			"text": "I rushed over here with witnesses of what just happened, not even 10 minutes ago!"
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Upset",
+			"text": "I saw one thing.."
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Erm",
+			"text": "What was it?"
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.025,
+			"portrait": "dialoguebambi",
+			"boxState": "angry",
+			"expression": "Annoyed",
+			"text": "THESE TRESPASSERS!"
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.025,
+			"portrait": "dialoguebambi",
+			"boxState": "angry",
+			"expression": "Annoyed",
+			"text": "AND THAT INCLUDES YOU!!"
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "PostMaze",
+			"text": "Bambi, you don't undestand"
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "PostMaze",
+			"text": "They got teleported here or something and it's not their fault."
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Upset",
+			"text": "Don't believe it."
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Upset",
+			"text": "i say, we do another song and if i lose, I will make sure you get grounded for life!"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Bet."
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "Ready",
+			"text": "Bep!"
+		}
+	]
+}

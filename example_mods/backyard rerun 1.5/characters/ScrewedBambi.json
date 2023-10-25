@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "a_bambi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				88,
+				-13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "a_bambi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-25
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "a_bambi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				65
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "a_bambi up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "a_bambi right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				205,
+				145
+			],
+			"anim": "PhoneSmash",
+			"fps": 24,
+			"name": "a_bambi phone",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				24
+			],
+			"anim": "PhoneThrow",
+			"fps": 24,
+			"name": "a_bambi throw",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				34
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "a_bambi scream",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transform",
+			"indices": [],
+			"name": "a_bambi transformation"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-6
+			],
+			"anim": "Slander",
+			"fps": 24,
+			"name": "a_bambi fucken idiot0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Screwed_Bambi",
+	"position": [
+		-20,
+		350
+	],
+	"healthicon": "ScrewedBambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		176,
+		0
+	],
+	"camera_position": [
+		-50,
+		27
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

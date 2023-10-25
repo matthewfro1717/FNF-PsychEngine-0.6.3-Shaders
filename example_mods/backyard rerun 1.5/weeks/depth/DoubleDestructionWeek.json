@@ -1,0 +1,50 @@
+{
+	"storyName": "Double Destruction",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP",
+	"weekBefore": "MarathonWeek",
+	"freeplayColor": [
+		185,
+		185,
+		185
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Wrathful",
+			"wrath",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Rewired",
+			"stare",
+			[
+				215,
+				0,
+				0
+			]
+		],
+		[
+			"Carnage",
+			"carnage",
+			[
+				175,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "DoubleDestructionWeek"
+}

@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "dialoguenarrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Dave goes outside and notices Tristan didn't even go to school."
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "angry",
+			"expression": "Furios",
+			"text": "TRISTAN!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dialogueDave",
+			"boxState": "angry",
+			"expression": "Shocked",
+			"text": "DID YOU EVEN GO TO SCHOOL?"
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguetristan",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "N-No.."
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "angry",
+			"expression": "Furios",
+			"text": "You're grounded! No phone for seven years."
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguetristan",
+			"boxState": "normal",
+			"expression": "Sad",
+			"text": "B-But!"
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Annoyed",
+			"text": "No Buts, get Inside."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "dialogueNarrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Tristan goes inside"
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "DialogueDave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sorry about that."
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why Don't you guys come inside?"
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's pretty late and i don't mind company."
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sure, why not"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beeeepp!!"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "dialoguenarrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "They head inside and eventually dose off."
+		}
+	]
+}

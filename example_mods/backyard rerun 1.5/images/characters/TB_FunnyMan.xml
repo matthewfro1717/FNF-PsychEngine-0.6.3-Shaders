@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tb funniest.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="257" height="319" frameX="-11" frameY="-14" frameWidth="268" frameHeight="333"/>
+	<SubTexture name="down0001" x="257" y="0" width="248" height="333" frameX="-2" frameY="0" frameWidth="268" frameHeight="333"/>
+	<SubTexture name="down0002" x="505" y="0" width="248" height="333" frameX="0" frameY="0" frameWidth="268" frameHeight="333"/>
+	<SubTexture name="idle0000" x="753" y="0" width="223" height="368" frameX="0" frameY="-21" frameWidth="223" frameHeight="389"/>
+	<SubTexture name="idle0001" x="0" y="368" width="221" height="377" frameX="-1" frameY="-12" frameWidth="223" frameHeight="389"/>
+	<SubTexture name="idle0002" x="221" y="368" width="220" height="385" frameX="-2" frameY="-4" frameWidth="223" frameHeight="389"/>
+	<SubTexture name="idle0003" x="441" y="368" width="220" height="387" frameX="-2" frameY="-2" frameWidth="223" frameHeight="389"/>
+	<SubTexture name="idle0004" x="661" y="368" width="220" height="389" frameX="-2" frameY="0" frameWidth="223" frameHeight="389"/>
+	<SubTexture name="left0000" x="0" y="757" width="283" height="390" frameX="0" frameY="0" frameWidth="297" frameHeight="390"/>
+	<SubTexture name="left0001" x="283" y="757" width="282" height="390" frameX="-15" frameY="0" frameWidth="297" frameHeight="390"/>
+	<SubTexture name="right0000" x="565" y="757" width="269" height="390" frameX="-3" frameY="0" frameWidth="272" frameHeight="390"/>
+	<SubTexture name="right0001" x="0" y="1147" width="258" height="390" frameX="0" frameY="0" frameWidth="272" frameHeight="390"/>
+	<SubTexture name="up0000" x="258" y="1147" width="262" height="392" frameX="-2" frameY="0" frameWidth="264" frameHeight="392"/>
+	<SubTexture name="up0001" x="520" y="1147" width="258" height="382" frameX="0" frameY="-10" frameWidth="264" frameHeight="392"/>
+	<SubTexture name="up0002" x="0" y="1539" width="258" height="383" frameX="0" frameY="-9" frameWidth="264" frameHeight="392"/>
+</TextureAtlas>

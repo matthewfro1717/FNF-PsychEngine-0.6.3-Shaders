@@ -1,0 +1,2 @@
+Value 1: Error Text Msg
+Value 2: Error Window Msg

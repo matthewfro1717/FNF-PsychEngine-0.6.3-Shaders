@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Upset",
+			"text": "I hate you."
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Upset",
+			"text": "You ruined my life!"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep lmaolmaolmao"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "About that grounding, when's it going down."
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Upset",
+			"text": "Right Now!"
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Upset",
+			"text": "Everyone get in the barn!"
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Upset",
+			"text": "I'll show you my secret weapon."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "DialogueNarrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Everyone heads into the barn, following Bambi's lead."
+		}
+	]
+}

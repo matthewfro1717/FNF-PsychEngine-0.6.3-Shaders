@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		170,
+		130
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "Normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Normal0000",
+			"anim": "Normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Annoyed0000",
+			"anim": "Annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Sad0000",
+			"anim": "Sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "DialogueTristan"
+}

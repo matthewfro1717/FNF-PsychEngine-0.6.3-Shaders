@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "DialogueNarrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "During a meet up with Moldy, bf and gf steal his phone and run away"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dialoguenarrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "after 2 hours of sprinting through Georgia, Moldy Corners bf and gf"
+		},
+		{
+			"sound": "moldyDialogue",
+			"speed": 0.05,
+			"portrait": "dialogueMoldy",
+			"boxState": "normal",
+			"expression": "Tired",
+			"text": "Give me my phone back already"
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "Ready",
+			"text": "Beep!"
+		},
+		{
+			"sound": "moldyDialogue",
+			"speed": 0.05,
+			"portrait": "dialoguemoldy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What did he say?"
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "he said he'll give you your phone back if you can beat him in a rap battle"
+		},
+		{
+			"sound": "moldyDialogue",
+			"speed": 0.05,
+			"portrait": "dialoguemoldy",
+			"boxState": "normal",
+			"expression": "Upset",
+			"text": "Really? I've just Chased you for the past 2 hours and i feel like i'm gonna pass out"
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "Do you want your phone or not?"
+		},
+		{
+			"sound": "moldyDialogue",
+			"speed": 0.05,
+			"portrait": "dialoguemoldy",
+			"boxState": "normal",
+			"expression": "Upset",
+			"text": "Fine, but make it quick"
+		}
+	]
+}

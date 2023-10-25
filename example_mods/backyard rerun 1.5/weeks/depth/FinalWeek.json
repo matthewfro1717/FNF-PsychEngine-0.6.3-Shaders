@@ -1,0 +1,32 @@
+{
+	"storyName": "Finale.",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP",
+	"weekBefore": "HellExpungedWeek",
+	"freeplayColor": [
+		185,
+		185,
+		185
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Anarchy",
+			"Anarchy",
+			[
+				178,
+				69,
+				69
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "FinalWeek"
+}

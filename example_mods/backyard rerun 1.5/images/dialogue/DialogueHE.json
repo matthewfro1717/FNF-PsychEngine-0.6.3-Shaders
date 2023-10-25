@@ -1,0 +1,25 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-100,
+		20
+	],
+	"no_antialiasing": false,
+	"scale": 2,
+	"animations": [
+		{
+			"loop_name": "idle0",
+			"idle_offsets": [
+				-330,
+				-140
+			],
+			"idle_name": "idle0",
+			"anim": "one",
+			"loop_offsets": [
+				-330,
+				-140
+			]
+		}
+	],
+	"image": "DialogueHE"
+}

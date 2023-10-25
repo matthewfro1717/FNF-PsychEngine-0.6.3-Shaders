@@ -1,0 +1,2 @@
+v1 = Game Camera Rotation Amount
+v2 = Hud Camera Rotation Amount

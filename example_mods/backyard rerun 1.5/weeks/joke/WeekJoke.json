@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Tin-Can",
+			"idtios",
+			[
+				255,
+				125,
+				125
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "finale",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "JOKEEEIMGONNASMAHSMYT{HINEIUFYOUDONTHEALVEA",
+	"weekName": "JokeWeek",
+	"freeplayColor": [
+		13,
+		37,
+		42
+	],
+	"hideStoryMode": true,
+	"weekBefore": "TristanWeek",
+	"startUnlocked": true
+}

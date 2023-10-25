@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DialogueJokeBambi.png">
+<SubTexture name="Normal0000" x="0" y="0" width="242" height="247" frameX="-3" frameY="-37" frameWidth="231" frameHeight="264" />
+<SubTexture name="Mad0000" x="0" y="247" width="241" height="268" frameX="-4" frameY="-16" frameWidth="231" frameHeight="264" />
+</TextureAtlas>

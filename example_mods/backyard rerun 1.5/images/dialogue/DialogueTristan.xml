@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DialogueTristan.png">
+<SubTexture name="Normal0000" x="0" y="0" width="274" height="311" frameX="0" frameY="0" frameWidth="256" frameHeight="291" />
+<SubTexture name="Annoyed0000" x="0" y="311" width="274" height="311" frameX="0" frameY="0" frameWidth="256" frameHeight="291" />
+<SubTexture name="Sad0000" x="0" y="622" width="304" height="311" frameX="0" frameY="0" frameWidth="288" frameHeight="291" />
+</TextureAtlas>

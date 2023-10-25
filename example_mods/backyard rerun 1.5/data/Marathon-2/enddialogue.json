@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Well.."
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Better get going now."
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "It's way past Tristan's bed time and i have stuff to do today."
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Bambi, are you coming?"
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "Dialoguedave",
+			"boxState": "normal",
+			"expression": "Erm",
+			"text": "Bambi?"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "DialogueNarrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bambi is asleep on the floor, next to a half eaten corn cob."
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Oh, well."
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "That was really fun, hope we can do it again another time!"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Ba!"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "*yawn* Sorry, i fell asleep."
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "But yeah, we'd love to!"
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Lets go, Tristan."
+		},
+		{
+			"sound": "Trisdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguetristan",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "Aww, Okay."
+		},
+		{
+			"sound": "Trisdialogue",
+			"speed": 0.05,
+			"portrait": "Dialoguetristan",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Bye bye!"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Bye!"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Bee bee!"
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "See you guys later!"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "dialoguenarrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BF and GF take the opportunity to go back into the barn and sleep."
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "Expunged's Redux",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP, WAKE UP",
+	"weekBefore": "DoubleDestructionWeek",
+	"freeplayColor": [
+		185,
+		185,
+		185
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Elude",
+			"CheatingExpunged",
+			[
+				0,
+				175,
+				0
+			]
+		],
+		[
+			"Iniquity",
+			"UnfairnessExpunged",
+			[
+				175,
+				0,
+				0
+			]
+		],
+		[
+			"Deploration",
+			"ExpungedLosing",
+			[
+				77,
+				7,
+				7
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "ExpungedWeek"
+}

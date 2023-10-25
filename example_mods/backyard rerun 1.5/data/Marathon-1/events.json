@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				276100.371172286,
+				[
+					[
+						"Play Animation",
+						"waiting",
+						"Dad"
+					]
+				]
+			],
+			[
+				279072.069285494,
+				[
+					[
+						"Change Character",
+						"1",
+						"SplitathonBambi"
+					]
+				]
+			],
+			[
+				428864.111943413,
+				[
+					[
+						"Change Character",
+						"1",
+						"SplitathonDave"
+					]
+				]
+			],
+			[
+				557277.155421672,
+				[
+					[
+						"Change Character",
+						"1",
+						"SplitathonBambi"
+					]
+				]
+			]
+		]
+	}
+}

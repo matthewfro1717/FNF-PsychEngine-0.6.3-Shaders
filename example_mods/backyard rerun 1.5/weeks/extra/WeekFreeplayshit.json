@@ -1,0 +1,77 @@
+{
+	"storyName": "how you see this",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "MarathonWeek",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Starlight",
+			"CoolDave",
+			[
+				0,
+				0,
+				121
+			]
+		],
+		[
+			"Phone-Chase-In-Georgia",
+			"Moldy",
+			[
+				60,
+				60,
+				120
+			]
+		],
+		[
+			"Vertice",
+			"Vertice",
+			[
+				40,
+				40,
+				255
+			]
+		],
+		[
+			"Marathon-1",
+			"Marathon1",
+			[
+				0,
+				143,
+				155
+			]
+		],
+		[
+			"Bygone",
+			"Bambi-old",
+			[
+				60,
+				255,
+				60
+			]
+		],
+		[
+			"Unbinding",
+			"Recurser",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"Ur",
+		"mom",
+		"gae"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "FreeplayShitWeek"
+}

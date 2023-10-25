@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="1.5_Leak_Expunged.png">
+	<!-- Created hands and fucking txt's nerd -->
+	<SubTexture name="idle0000" x="0" y="0" width="450" height="900" frameX="0" frameY="0" frameWidth="450" frameHeight="900"/>
+</TextureAtlas>

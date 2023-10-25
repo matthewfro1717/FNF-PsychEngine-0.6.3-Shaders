@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SplitathonBambi-noshade.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="splitathon alt up0000" x="0" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0001" x="0" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0002" x="363" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0003" x="363" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0004" x="726" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0005" x="1089" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0006" x="1452" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0007" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0008" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0009" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0010" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0011" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0012" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0013" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0014" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0015" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0016" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0017" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0018" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0019" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0020" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0021" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0022" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0023" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0024" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0025" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0026" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0027" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon alt up0028" x="1815" y="0" width="363" height="348"/>
+	<SubTexture name="splitathon corn0000" x="2178" y="0" width="307" height="328"/>
+	<SubTexture name="splitathon corn0001" x="2178" y="0" width="307" height="328"/>
+	<SubTexture name="splitathon corn0002" x="2485" y="0" width="307" height="328"/>
+	<SubTexture name="splitathon corn0003" x="2485" y="0" width="307" height="328"/>
+	<SubTexture name="splitathon corn0004" x="2792" y="0" width="307" height="328"/>
+	<SubTexture name="splitathon corn0005" x="2792" y="0" width="307" height="328"/>
+	<SubTexture name="splitathon corn0006" x="3099" y="0" width="307" height="328"/>
+	<SubTexture name="splitathon corn0007" x="3099" y="0" width="307" height="328"/>
+	<SubTexture name="splitathon corn0008" x="3406" y="0" width="307" height="328"/>
+	<SubTexture name="splitathon corn0009" x="3406" y="0" width="307" height="328"/>
+	<SubTexture name="splitathon corn0010" x="3713" y="0" width="307" height="328"/>
+	<SubTexture name="splitathon corn0011" x="3713" y="0" width="307" height="328"/>
+	<SubTexture name="splitathon corn0012" x="4020" y="0" width="307" height="328"/>
+	<SubTexture name="splitathon corn0013" x="4020" y="0" width="307" height="328"/>
+	<SubTexture name="splitathon down0000" x="4327" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0001" x="4327" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0002" x="4636" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0003" x="4636" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0004" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0005" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0006" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0007" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0008" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0009" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0010" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0011" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0012" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0013" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0014" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0015" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0016" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0017" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0018" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0019" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0020" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0021" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0022" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0023" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0024" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0025" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0026" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0027" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down0028" x="4945" y="0" width="309" height="299"/>
+	<SubTexture name="splitathon down alt0000" x="5254" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0001" x="5254" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0002" x="5595" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0003" x="5595" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0004" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0005" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0006" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0007" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0008" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0009" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0010" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0011" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0012" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0013" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0014" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0015" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0016" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0017" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0018" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0019" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0020" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0021" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0022" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0023" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0024" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0025" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0026" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0027" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon down alt0028" x="5936" y="0" width="341" height="299"/>
+	<SubTexture name="splitathon fucken idiot0000" x="6277" y="0" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0001" x="6277" y="0" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0002" x="6546" y="0" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0003" x="6815" y="0" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0004" x="6815" y="0" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0005" x="7084" y="0" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0006" x="7353" y="0" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0007" x="7622" y="0" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0008" x="7891" y="0" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0009" x="0" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0010" x="269" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0011" x="538" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0012" x="807" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0013" x="1076" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0014" x="1345" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0015" x="1614" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0016" x="1883" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0017" x="2152" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0018" x="2421" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0019" x="2690" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0020" x="2690" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0021" x="2959" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0022" x="2959" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0023" x="3228" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0024" x="3228" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0025" x="3228" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon fucken idiot0026" x="3228" y="348" width="269" height="318"/>
+	<SubTexture name="splitathon holy shit0000" x="3497" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0001" x="3811" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0002" x="4125" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0003" x="4439" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0004" x="4439" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0005" x="4753" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0006" x="4753" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0007" x="5067" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0008" x="5067" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0009" x="5381" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0010" x="5695" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0011" x="6009" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0012" x="6323" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0013" x="6637" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0014" x="6951" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0015" x="7265" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0016" x="7265" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0017" x="7579" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0018" x="7579" y="348" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0019" x="0" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0020" x="314" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0021" x="628" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0022" x="942" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0023" x="1256" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0024" x="1256" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0025" x="1570" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0026" x="1570" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0027" x="1884" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0028" x="1884" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0029" x="2198" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0030" x="2198" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0031" x="2512" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0032" x="2512" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0033" x="2512" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0034" x="2512" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0035" x="2512" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0036" x="2512" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon holy shit0037" x="2512" y="666" width="314" height="303"/>
+	<SubTexture name="splitathon idle0000" x="2826" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0001" x="2826" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0002" x="3173" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0003" x="3173" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0004" x="3520" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0005" x="3520" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0006" x="3867" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0007" x="3867" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0008" x="4214" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0009" x="4214" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0010" x="4561" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0011" x="4561" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0012" x="4908" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0013" x="4908" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0014" x="5255" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0015" x="5255" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0016" x="5602" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0017" x="5949" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0018" x="5949" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0019" x="6296" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle0020" x="6296" y="666" width="347" height="326"/>
+	<SubTexture name="splitathon idle 20000" x="6643" y="666" width="273" height="326"/>
+	<SubTexture name="splitathon idle 20001" x="6643" y="666" width="273" height="326"/>
+	<SubTexture name="splitathon idle 20002" x="6916" y="666" width="273" height="326"/>
+	<SubTexture name="splitathon idle 20003" x="6916" y="666" width="273" height="326"/>
+	<SubTexture name="splitathon idle 20004" x="7189" y="666" width="273" height="326"/>
+	<SubTexture name="splitathon idle 20005" x="7189" y="666" width="273" height="326"/>
+	<SubTexture name="splitathon idle 20006" x="7462" y="666" width="273" height="326"/>
+	<SubTexture name="splitathon idle 20007" x="7462" y="666" width="273" height="326"/>
+	<SubTexture name="splitathon idle 20008" x="7735" y="666" width="273" height="326"/>
+	<SubTexture name="splitathon idle 20009" x="7735" y="666" width="273" height="326"/>
+	<SubTexture name="splitathon idle 20010" x="0" y="992" width="273" height="326"/>
+	<SubTexture name="splitathon idle 20011" x="0" y="992" width="273" height="326"/>
+	<SubTexture name="splitathon idle 20012" x="273" y="992" width="273" height="326"/>
+	<SubTexture name="splitathon idle 20013" x="273" y="992" width="273" height="326"/>
+	<SubTexture name="splitathon left0000" x="546" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0001" x="546" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0002" x="879" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0003" x="879" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0004" x="1212" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0005" x="1212" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0006" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0007" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0008" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0009" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0010" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0011" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0012" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0013" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0014" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0015" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0016" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0017" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0018" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0019" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0020" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0021" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0022" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0023" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0024" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left0025" x="1545" y="992" width="333" height="319"/>
+	<SubTexture name="splitathon left alt0000" x="1878" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0001" x="1878" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0002" x="2270" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0003" x="2270" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0004" x="2662" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0005" x="2662" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0006" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0007" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0008" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0009" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0010" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0011" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0012" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0013" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0014" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0015" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0016" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0017" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0018" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0019" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0020" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0021" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0022" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0023" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0024" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon left alt0025" x="3054" y="992" width="392" height="317"/>
+	<SubTexture name="splitathon phone0000" x="3446" y="992" width="500" height="423"/>
+	<SubTexture name="splitathon phone0001" x="3946" y="992" width="500" height="423"/>
+	<SubTexture name="splitathon phone0002" x="4446" y="992" width="500" height="423"/>
+	<SubTexture name="splitathon phone0003" x="4946" y="992" width="500" height="423"/>
+	<SubTexture name="splitathon phone0004" x="4946" y="992" width="500" height="423"/>
+	<SubTexture name="splitathon phone0005" x="5446" y="992" width="500" height="423"/>
+	<SubTexture name="splitathon phone0006" x="5446" y="992" width="500" height="423"/>
+	<SubTexture name="splitathon phone0007" x="5946" y="992" width="500" height="423"/>
+	<SubTexture name="splitathon phone0008" x="5946" y="992" width="500" height="423"/>
+	<SubTexture name="splitathon phone0009" x="6446" y="992" width="500" height="423"/>
+	<SubTexture name="splitathon phone0010" x="6446" y="992" width="500" height="423"/>
+	<SubTexture name="splitathon phone0011" x="6446" y="992" width="500" height="423"/>
+	<SubTexture name="splitathon phone0012" x="6446" y="992" width="500" height="423"/>
+	<SubTexture name="splitathon phone0013" x="6446" y="992" width="500" height="423"/>
+	<SubTexture name="splitathon phone0014" x="6446" y="992" width="500" height="423"/>
+	<SubTexture name="splitathon phone0015" x="6446" y="992" width="500" height="423"/>
+	<SubTexture name="splitathon right0000" x="6946" y="992" width="315" height="329"/>
+	<SubTexture name="splitathon right0001" x="6946" y="992" width="315" height="329"/>
+	<SubTexture name="splitathon right0002" x="7261" y="992" width="315" height="329"/>
+	<SubTexture name="splitathon right0003" x="7261" y="992" width="315" height="329"/>
+	<SubTexture name="splitathon right0004" x="7576" y="992" width="315" height="329"/>
+	<SubTexture name="splitathon right0005" x="7576" y="992" width="315" height="329"/>
+	<SubTexture name="splitathon right0006" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0007" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0008" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0009" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0010" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0011" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0012" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0013" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0014" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0015" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0016" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0017" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0018" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0019" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0020" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0021" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0022" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0023" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0024" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0025" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0026" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0027" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0028" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0029" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0030" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0031" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0032" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right0033" x="0" y="1415" width="315" height="329"/>
+	<SubTexture name="splitathon right alt0000" x="315" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0001" x="315" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0002" x="672" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0003" x="672" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0004" x="1029" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0005" x="1029" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0006" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0007" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0008" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0009" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0010" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0011" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0012" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0013" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0014" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0015" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0016" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0017" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0018" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0019" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0020" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0021" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0022" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0023" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0024" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0025" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0026" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0027" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0028" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0029" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0030" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0031" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0032" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon right alt0033" x="1386" y="1415" width="357" height="314"/>
+	<SubTexture name="splitathon throw0000" x="1743" y="1415" width="944" height="371"/>
+	<SubTexture name="splitathon throw0001" x="2687" y="1415" width="944" height="371"/>
+	<SubTexture name="splitathon throw0002" x="3631" y="1415" width="944" height="371"/>
+	<SubTexture name="splitathon throw0003" x="4575" y="1415" width="944" height="371"/>
+	<SubTexture name="splitathon throw0004" x="5519" y="1415" width="944" height="371"/>
+	<SubTexture name="splitathon throw0005" x="6463" y="1415" width="944" height="371"/>
+	<SubTexture name="splitathon throw0006" x="0" y="1786" width="944" height="371"/>
+	<SubTexture name="splitathon throw0007" x="944" y="1786" width="944" height="371"/>
+	<SubTexture name="splitathon throw0008" x="1888" y="1786" width="944" height="371"/>
+	<SubTexture name="splitathon throw0009" x="2832" y="1786" width="944" height="371"/>
+	<SubTexture name="splitathon throw0010" x="2832" y="1786" width="944" height="371"/>
+	<SubTexture name="splitathon throw0011" x="2832" y="1786" width="944" height="371"/>
+	<SubTexture name="splitathon throw0012" x="2832" y="1786" width="944" height="371"/>
+	<SubTexture name="splitathon throw0013" x="2832" y="1786" width="944" height="371"/>
+	<SubTexture name="splitathon throw0014" x="2832" y="1786" width="944" height="371"/>
+	<SubTexture name="splitathon up0000" x="3776" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0001" x="3776" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0002" x="4073" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0003" x="4073" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0004" x="4370" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0005" x="4370" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0006" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0007" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0008" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0009" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0010" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0011" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0012" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0013" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0014" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0015" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0016" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0017" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0018" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0019" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0020" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0021" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0022" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0023" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0024" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0025" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0026" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0027" x="4667" y="1786" width="297" height="368"/>
+	<SubTexture name="splitathon up0028" x="4667" y="1786" width="297" height="368"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="darkroombg.png">
+<SubTexture name="windblow0000" x="0" y="0" width="1280" height="1280" frameX="0" frameY="0" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="windblow0001" x="1280" y="0" width="1280" height="1280" frameX="0" frameY="0" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="windblow0002" x="0" y="1280" width="1280" height="1280" frameX="0" frameY="0" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="windblow0003" x="1280" y="1280" width="1280" height="1280" frameX="0" frameY="0" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="windblow0004" x="0" y="2560" width="1280" height="1280" frameX="0" frameY="0" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="windblow0005" x="1280" y="2560" width="1280" height="1280" frameX="0" frameY="0" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="windblow0006" x="0" y="3840" width="1280" height="1280" frameX="0" frameY="0" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

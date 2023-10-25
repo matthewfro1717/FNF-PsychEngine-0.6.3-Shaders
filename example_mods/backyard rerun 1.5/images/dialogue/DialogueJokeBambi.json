@@ -1,0 +1,38 @@
+{
+	"position": [
+		200,
+		141
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 1.4,
+	"image": "DialogueJokeBambi",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Normal",
+			"idle_name": "Normal0000"
+		},
+		{
+			"loop_name": "Mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Mad0000",
+			"anim": "Mad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

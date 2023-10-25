@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "idle10"
+		},
+		{
+			"offsets": [
+				60,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "idle20"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-36
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				66
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				177,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				13
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "alt right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				107,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "alt up0"
+		},
+		{
+			"offsets": [
+				14,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "alt down0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				177,
+				-15
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "alt left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				111,
+				73
+			],
+			"anim": "PhoneSmash",
+			"fps": 24,
+			"name": "phone0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				195,
+				138
+			],
+			"anim": "PhoneThrow",
+			"fps": 24,
+			"name": "throw0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				108,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "scream",
+			"indices": [],
+			"name": "screamer0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Enraged_Bambi",
+	"position": [
+		-43,
+		337
+	],
+	"healthicon": "Enraged_Bambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		20
+	],
+	"camera_position": [
+		-22,
+		29
+	],
+	"sing_duration": 40,
+	"scale": 1
+}

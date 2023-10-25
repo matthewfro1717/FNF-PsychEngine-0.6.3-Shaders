@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "moldyDialogue",
+			"speed": 0.05,
+			"portrait": "DialogueMoldy",
+			"boxState": "normal",
+			"expression": "Cry",
+			"text": "WAHHHH, i lost."
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "DialogueBF",
+			"boxState": "normal",
+			"expression": "Upset",
+			"text": "Bop!"
+		},
+		{
+			"sound": "moldyDialogue",
+			"speed": 0.05,
+			"portrait": "DialogueMoldy",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "What did he say now?"
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "DialogueGF",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "He said he'll give your phone back as you did well enough"
+		},
+		{
+			"sound": "moldyDialogue",
+			"speed": 0.05,
+			"portrait": "DialogueMoldy",
+			"boxState": "normal",
+			"expression": "Tired",
+			"text": "Thanks"
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "DialogueBF",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Beep bop!"
+		}
+	]
+}

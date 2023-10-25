@@ -1,0 +1,108 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				-6,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up0"
+		},
+		{
+			"offsets": [
+				-48,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right0"
+		},
+		{
+			"offsets": [
+				3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left0"
+		},
+		{
+			"offsets": [
+				-8,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down0"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "TakeOut",
+			"indices": [],
+			"name": "Takeout0"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "PutAway",
+			"indices": [
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"name": "Takeout0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/UnpluggedJokeBambi",
+	"position": [
+		-80,
+		285
+	],
+	"healthicon": "jokebambi",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		176,
+		20
+	],
+	"camera_position": [
+		-2,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

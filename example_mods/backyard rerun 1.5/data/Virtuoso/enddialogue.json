@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Upset",
+			"text": "Okay fine, you win, whatever..."
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skiboop bap boo beeee!"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, we better get going, it's pretty early."
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Upset",
+			"text": "Yeah.. You better leave! *yawn*"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "dialoguenarrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bambi falls flat on his face, asleep."
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know what, lets just sleep here."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "DialogueNarrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Everyone Picks a spot in the barn and doses off."
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				33,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				22,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down0"
+		},
+		{
+			"offsets": [
+				12,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right0"
+		},
+		{
+			"offsets": [
+				22,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				-27
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "idle0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/DecimatedDaveSheet",
+	"position": [
+		-320,
+		-140
+	],
+	"healthicon": "DecDave",
+	"flip_x": false,
+	"healthbar_colors": [
+		150,
+		0,
+		0
+	],
+	"camera_position": [
+		-200,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

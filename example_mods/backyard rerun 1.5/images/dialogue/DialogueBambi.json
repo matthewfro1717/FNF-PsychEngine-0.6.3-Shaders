@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		180,
+		150
+	],
+	"scale": 1.4,
+	"animations": [
+		{
+			"loop_name": "Normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Normal0000",
+			"anim": "Normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Annoyed0000",
+			"anim": "Annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Splitathon",
+			"idle_offsets": [
+				-2,
+				0
+			],
+			"idle_name": "Splitathon0000",
+			"anim": "Splitathon",
+			"loop_offsets": [
+				-2,
+				0
+			]
+		},
+		{
+			"loop_name": "Upset",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Upset0000",
+			"anim": "Upset",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "DialogueBambi"
+}

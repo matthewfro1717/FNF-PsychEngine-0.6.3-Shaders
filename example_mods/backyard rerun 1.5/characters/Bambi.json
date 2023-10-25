@@ -1,0 +1,236 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bambi idle"
+		},
+		{
+			"offsets": [
+				65,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bambi left"
+		},
+		{
+			"offsets": [
+				34,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bambi down"
+		},
+		{
+			"offsets": [
+				54,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bambi up"
+		},
+		{
+			"offsets": [
+				-5,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bambi right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				13
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				27
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				16
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "miss right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "bambi alt left"
+		},
+		{
+			"offsets": [
+				13,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "bambi alt right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				15
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "bambi alt up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-36
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "bambi alt down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				81
+			],
+			"anim": "PhoneSmash",
+			"fps": 24,
+			"name": "bambi phone",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				187,
+				84
+			],
+			"anim": "PhoneThrow",
+			"fps": 24,
+			"name": "bambi throw",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				8
+			],
+			"anim": "Suprised",
+			"fps": 24,
+			"name": "bambi hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-1
+			],
+			"anim": "Slander",
+			"fps": 24,
+			"name": "bambi fucken idiot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-18
+			],
+			"anim": "HolyShit",
+			"fps": 34,
+			"name": "bambi holy shit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				-1
+			],
+			"anim": "Malicious",
+			"fps": 20,
+			"name": "bambi fucken idiot0",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BambiRemake",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		176,
+		0
+	],
+	"camera_position": [
+		-20,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

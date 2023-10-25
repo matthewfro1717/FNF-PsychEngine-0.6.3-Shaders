@@ -1,0 +1,132 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "dialoguenarrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "In the morning, BF and GF head off to Dave's house to ask him what happened the previous day, when they bump into Tristan, who was on his way to school."
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.02,
+			"portrait": "dialoguetristan",
+			"boxState": "angry",
+			"expression": "Normal",
+			"text": "Oh! Hey you two!"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.02,
+			"portrait": "dialoguebf",
+			"boxState": "angry",
+			"expression": "Confused",
+			"text": "Baa!!"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.03,
+			"portrait": "dialoguegf",
+			"boxState": "angry",
+			"expression": "What",
+			"text": "Jesus! You scared us!"
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguetristan",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "My bad.."
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguetristan",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "Why are you guys here?"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We came to see Dave."
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "DialogueTristan",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "Oh!"
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguetristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He's Inside."
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguetristan",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "But, before i go.."
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguetristan",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "Can we have a rap battle?"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "No, Shut th-"
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguetristan",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "Pretty Pleaseeeee.."
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ba!"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "Ugh, fine."
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "DialogueTristan",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "Yay!"
+		}
+	]
+}

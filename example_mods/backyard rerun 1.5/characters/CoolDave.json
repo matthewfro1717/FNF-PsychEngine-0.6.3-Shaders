@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-13,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				3,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down0"
+		},
+		{
+			"offsets": [
+				-23,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up0"
+		},
+		{
+			"offsets": [
+				-18,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CoolDave",
+	"position": [
+		-100,
+		50
+	],
+	"healthicon": "CoolDave",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		255
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

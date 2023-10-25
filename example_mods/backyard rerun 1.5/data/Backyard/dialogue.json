@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "Happy",
+			"text": "Beep!",
+			"boxState": "normal",
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf"
+		},
+		{
+			"expression": "Happy",
+			"text": "Hm?",
+			"boxState": "normal",
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave"
+		},
+		{
+			"expression": "Happy",
+			"text": "Oh it's you two again!",
+			"boxState": "normal",
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave"
+		},
+		{
+			"expression": "Happy",
+			"text": "it's really good to see you guys.",
+			"boxState": "normal",
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave"
+		},
+		{
+			"expression": "Happy",
+			"text": "Bap Bop.",
+			"boxState": "normal",
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf"
+		},
+		{
+			"expression": "Happy",
+			"text": "What's that?",
+			"boxState": "normal",
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave"
+		},
+		{
+			"expression": "Happy",
+			"text": "He wants a rap battle.",
+			"boxState": "normal",
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf"
+		},
+		{
+			"sound": "davedialogue",
+			"speed": 0.05,
+			"portrait": "dialoguedave",
+			"boxState": "normal",
+			"expression": "Annoyed",
+			"text": "A rap battle? Sure why not, call it a rematch!"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "Ready",
+			"text": "Boo Bee Bap!!"
+		}
+	]
+}

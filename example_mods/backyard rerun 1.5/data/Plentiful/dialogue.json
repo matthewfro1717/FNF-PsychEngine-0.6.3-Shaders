@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguetristan",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "That was so fun!"
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguetristan",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "Last time we did this was back at Mr. Bambi's festival!"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "Yeah, you happy now? Can we go?"
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguetristan",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "Can we have one more.."
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "What",
+			"text": "Kid, you're going to be late for school."
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguetristan",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "But- But-"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Bee bap skiboo bap oo!"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "Oh come on boyfriend!"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "DialogueGF",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "We have important stuff to do!"
+		},
+		{
+			"sound": "trisdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguetristan",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "Soooo, is that a yes?"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ba!"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "What",
+			"text": "Bro."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "Fine, yes."
+		}
+	]
+}

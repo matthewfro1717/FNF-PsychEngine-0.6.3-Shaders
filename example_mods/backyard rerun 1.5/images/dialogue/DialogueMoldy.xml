@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DialogueMoldy.png">
+<SubTexture name="Confused0000" x="0" y="0" width="353" height="377" frameX="0" frameY="-5" frameWidth="335" frameHeight="362" />
+<SubTexture name="Tired0000" x="0" y="377" width="353" height="377" frameX="0" frameY="-5" frameWidth="335" frameHeight="362" />
+<SubTexture name="Upset0000" x="0" y="754" width="353" height="377" frameX="0" frameY="-5" frameWidth="335" frameHeight="362" />
+<SubTexture name="Cry0000" x="0" y="1131" width="469" height="376" frameX="0" frameY="-17" frameWidth="449" frameHeight="373" />
+</TextureAtlas>

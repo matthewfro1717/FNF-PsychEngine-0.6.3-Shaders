@@ -1,0 +1,5 @@
+Swaps Strums.
+
+Value 1 :
+1 = Swaps Strums
+0 = Returns to Normal

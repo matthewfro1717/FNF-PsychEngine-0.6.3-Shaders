@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Refresher",
+			"dave",
+			[
+				0,
+				0,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "Refresher",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Dave's Fun Tutorial Song",
+	"weekName": "RefresherWeek",
+	"freeplayColor": [
+		0,
+		0,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

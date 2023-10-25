@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				240,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1338,
+				123
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				340,
+				30
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				364,
+				640
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				302,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "Right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/HellExpunged",
+	"position": [
+		100,
+		-100
+	],
+	"healthicon": "HellExpunged",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-250,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

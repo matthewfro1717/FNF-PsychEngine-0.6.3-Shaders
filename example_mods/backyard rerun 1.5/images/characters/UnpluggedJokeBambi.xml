@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="UnpluggedJokeBambi.png">
+<SubTexture name="Down0000" x="1472" y="1041" width="419" height="318" frameX="-91" frameY="-92" frameWidth="500" frameHeight="400" />
+<SubTexture name="Down0001" x="0" y="1471" width="420" height="313" frameX="-90" frameY="-97" frameWidth="500" frameHeight="400" />
+<SubTexture name="Idle0000" x="385" y="394" width="425" height="357" frameX="-59" frameY="-53" frameWidth="500" frameHeight="400" />
+<SubTexture name="Idle0001" x="0" y="757" width="427" height="357" frameX="-62" frameY="-53" frameWidth="500" frameHeight="400" />
+<SubTexture name="Idle0002" x="830" y="1114" width="428" height="353" frameX="-69" frameY="-57" frameWidth="500" frameHeight="400" />
+<SubTexture name="Idle0003" x="1472" y="0" width="424" height="350" frameX="-75" frameY="-60" frameWidth="500" frameHeight="400" />
+<SubTexture name="Left0000" x="369" y="0" width="371" height="387" frameX="0" frameY="-23" frameWidth="500" frameHeight="400" />
+<SubTexture name="Left0001" x="0" y="0" width="369" height="394" frameX="-3" frameY="-16" frameWidth="500" frameHeight="400" />
+<SubTexture name="Right0000" x="1472" y="350" width="414" height="347" frameX="-44" frameY="-63" frameWidth="500" frameHeight="400" />
+<SubTexture name="Right0001" x="1472" y="697" width="415" height="344" frameX="-45" frameY="-66" frameWidth="500" frameHeight="400" />
+<SubTexture name="Takeout0000" x="810" y="394" width="234" height="357" frameX="-138" frameY="-53" frameWidth="500" frameHeight="400" />
+<SubTexture name="Takeout0001" x="427" y="757" width="262" height="357" frameX="-110" frameY="-53" frameWidth="500" frameHeight="400" />
+<SubTexture name="Takeout0002" x="689" y="757" width="308" height="357" frameX="-64" frameY="-53" frameWidth="500" frameHeight="400" />
+<SubTexture name="Takeout0003" x="1115" y="0" width="357" height="357" frameX="-15" frameY="-53" frameWidth="500" frameHeight="400" />
+<SubTexture name="Takeout0004" x="0" y="1114" width="405" height="357" frameX="-2" frameY="-53" frameWidth="500" frameHeight="400" />
+<SubTexture name="Takeout0005" x="405" y="1114" width="425" height="357" frameX="-23" frameY="-53" frameWidth="500" frameHeight="400" />
+<SubTexture name="Takeout0006" x="385" y="394" width="425" height="357" frameX="-59" frameY="-53" frameWidth="500" frameHeight="400" />
+<SubTexture name="Up0000" x="0" y="394" width="385" height="363" frameX="-46" frameY="-47" frameWidth="500" frameHeight="400" />
+<SubTexture name="Up0001" x="740" y="0" width="375" height="370" frameX="-49" frameY="-40" frameWidth="500" frameHeight="400" />
+</TextureAtlas>

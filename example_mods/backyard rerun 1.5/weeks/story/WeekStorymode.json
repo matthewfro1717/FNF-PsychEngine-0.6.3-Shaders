@@ -1,0 +1,113 @@
+{
+	"storyName": "Dave's Fun Tutorial Song",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "Refresher",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		0,
+		0,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Refresher",
+			"dave",
+			[
+				0,
+				120,
+				255
+			]
+		],
+		[
+			"Backyard",
+			"dave",
+			[
+				0,
+				100,
+				255
+			]
+		],
+		[
+			"Frenzy",
+			"dave",
+			[
+				0,
+				80,
+				255
+			]
+		],
+		[
+			"Multidimensional",
+			"3dDave",
+			[
+				208,
+				91,
+				81
+			]
+		],
+		[
+			"Maize",
+			"bambi",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Trespass",
+			"bambi",
+			[
+				0,
+				215,
+				0
+			]
+		],
+		[
+			"Virtuoso",
+			"bambilosing",
+			[
+				0,
+				175,
+				0
+			]
+		],
+		[
+			"Novice",
+			"tristan",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Plentiful",
+			"tristan",
+			[
+				175,
+				0,
+				0
+			]
+		],
+		[
+			"Marathon-2",
+			"Marathon2",
+			[
+				87,
+				82,
+				114
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "RefresherWeek"
+}

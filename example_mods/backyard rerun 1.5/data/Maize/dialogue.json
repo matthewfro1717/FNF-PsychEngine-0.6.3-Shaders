@@ -1,0 +1,188 @@
+{
+	"dialogue": [
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "Jesus fuck."
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "Every damn time something goes wrong, it just gets wierder and wierder."
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "bee beep.."
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "What",
+			"text": "wait."
+		},
+		{
+			"sound": "gfdialogue,
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "What",
+			"text": "Are we where i think we are?"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "Baa?"
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.025,
+			"portrait": "dialoguebambi",
+			"boxState": "angry",
+			"expression": "Annoyed",
+			"text": "Who goes there!"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "Oh, great."
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.04,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Annoyed",
+			"text": "You corn thieves are back?!"
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Annoyed",
+			"text": "i thought i told you to never come back again."
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "What",
+			"text": "Listen-"
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.03,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Annoyed",
+			"text": "Silence!"
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Annoyed",
+			"text": "i will hear no such lies."
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "*Sigh*"
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "Ready",
+			"text": "Beep bop."
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Upset",
+			"text": "What"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He wants a rap battle, a rematch."
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.08,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Upset",
+			"text": "No!"
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "What",
+			"text": "Dude, just-"
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Upset",
+			"text": "I made up my mind."
+		},
+		{
+			"sound": "gfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguegf",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Annnnddd?"
+		},
+		{
+			"sound": "bambdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebambi",
+			"boxState": "normal",
+			"expression": "Annoyed",
+			"text": "If I win, you leave. If you win? I break my phone and you'll get grounded."
+		},
+		{
+			"sound": "bfdialogue",
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "Ready",
+			"text": "Beeep!"
+		}
+	]
+}

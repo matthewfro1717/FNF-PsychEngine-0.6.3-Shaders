@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Marathon-2",
+			"Marathon2",
+			[
+				87,
+				82,
+				114
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": true,
+	"weekBackground": "finale",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Marathon",
+	"weekName": "MarathonWeek",
+	"freeplayColor": [
+		87,
+		82,
+		114
+	],
+	"hideStoryMode": false,
+	"weekBefore": "TristanWeek",
+	"startUnlocked": true
+}

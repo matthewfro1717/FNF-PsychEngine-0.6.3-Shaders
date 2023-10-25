@@ -1,0 +1,136 @@
+{
+	"song": {
+		"events": [
+			[
+				123934.426229508,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Tristan"
+					]
+				]
+			],
+			[
+				283934.426229509,
+				[
+					[
+						"Change Character",
+						"dad",
+						"SplitathonBambi"
+					]
+				]
+			],
+			[
+				284262.295081968,
+				[
+					[
+						"Play Animation",
+						"Slander",
+						"Dad"
+					]
+				]
+			],
+			[
+				292290.398126464,
+				[
+					[
+						"Play Animation",
+						"HolyShit",
+						"Dad"
+					]
+				]
+			],
+			[
+				433507.789430814,
+				[
+					[
+						"Change Character",
+						"dad",
+						"SplitathonDave"
+					]
+				]
+			],
+			[
+				565116.485082986,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Tristan"
+					]
+				]
+			],
+			[
+				628638.224213417,
+				[
+					[
+						"Change Character",
+						"dad",
+						"SplitathonBambi"
+					]
+				]
+			],
+			[
+				774007.789430801,
+				[
+					[
+						"Change Character",
+						"dad",
+						"SplitathonDave"
+					]
+				]
+			],
+			[
+				855073.006822101,
+				[
+					[
+						"Change Character",
+						"dad",
+						"MoldyGH"
+					]
+				]
+			],
+			[
+				1085812.13725688,
+				[
+					[
+						"Change Character",
+						"dad",
+						"SplitathonBambi"
+					]
+				]
+			],
+			[
+				1195246.91986558,
+				[
+					[
+						"Change Character",
+						"dad",
+						"SplitathonDave"
+					]
+				]
+			],
+			[
+				1272725.18073515,
+				[
+					[
+						"Change Character",
+						"dad",
+						"SplitathonBambi"
+					]
+				]
+			],
+			[
+				1313681.70247428,
+				[
+					[
+						"Change Character",
+						"dad",
+						"SplitathonDave"
+					]
+				]
+			]
+		]
+	}
+}

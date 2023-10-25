@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		20,
+		110
+	],
+	"scale": 1.6,
+	"animations": [
+		{
+			"loop_name": "Happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Happy0000",
+			"anim": "Happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Ready",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Ready0000",
+			"anim": "Ready",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Confused0000",
+			"anim": "Confused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Upset",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Upset0000",
+			"anim": "Upset",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "DialogueBF"
+}
